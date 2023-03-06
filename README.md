@@ -1,7 +1,7 @@
 # CodeeTime
 M5StickCを使用して勉強時間を計測し、GoogleSpreadSheetに記録するシステムです。
 
-# What you need to use it
+# What you need
 - M5StickC
 - GoogleSpreadSheet
 
