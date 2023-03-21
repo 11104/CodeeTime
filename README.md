@@ -1,4 +1,4 @@
-# CodeeTime v1.0
+## CodeeTime v1.0
 M5StickCを使用して勉強時間を計測し、GoogleSpreadSheetに記録するシステムです。
 
 # What you need
@@ -10,5 +10,8 @@ CodeeTime.inoの6,7,11行目にwifi情報とスプレッドシートのデプロ
 
 紹介記事->"[【M5Stick】勉強時間をスプレッドシートに記録するシステムを作った](https://qiita.com/nih/items/55c80f370c1cb7d27e09)"
 
-### 参考にさせていただいた記事
+# Version history
+- v1.0 - 23/3/5 release
+
+### References
 - [M5stickCを使用したセンサーの値をGoogleスプレッドシートに](https://make-iot.com/2020/12/19/m5stickcを使用したセンサーの値をgoogleスプレッドシート/)(sheet側のデプロイ設定など)
